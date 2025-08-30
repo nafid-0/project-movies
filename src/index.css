@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 40px;
+    background: #515151;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif,arial, sans-serif;
+
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: aliceblue;
+    margin-bottom: 30px;
+
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid;
+    padding: 10px;
+    min-height: 200px;
+    border-radius: 15px;
+    background: rgba(129, 137, 182, 0.47);
+}
+
+.Liked .like{
+    background: rgba(129, 137, 182, 0.47);
+    border: none;
+}
+
