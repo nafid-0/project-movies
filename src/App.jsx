@@ -29,6 +29,8 @@ const App1 = () => {
         <div>
             <Card title="wendesday"/>
             <Card title="Gangster"/>
+            <Card title="lokha"/>
+
         </div>
     )
 }
